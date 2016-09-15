@@ -1,4 +1,6 @@
-#hubot-fifty-shades
+# hubot-fifty-shades
+
+[![Build Status](https://travis-ci.org/simonsmith/hubot-fifty-shades.svg?branch=master)](https://travis-ci.org/simonsmith/hubot-fifty-shades)
 
 Generates sentences taken from http://www.fiftyshadesgenerator.com/
 
