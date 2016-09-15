@@ -1,4 +1,4 @@
-#-hubot-fifty-shades
+#hubot-fifty-shades
 
 Generates sentences taken from http://www.fiftyshadesgenerator.com/
 
