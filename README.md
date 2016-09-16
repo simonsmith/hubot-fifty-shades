@@ -23,6 +23,11 @@ Then add **hubot-fifty-shades** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
+simon>> shade me
+hubot>> <one random phrase>
+```
+
+```
 simon>> shades me
 hubot>> <one sentence of generated text>
 ```
