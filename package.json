@@ -1,7 +1,7 @@
 {
   "name": "hubot-fifty-shades",
   "description": "Generates sentences taken from http://www.fiftyshadesgenerator.com/",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Simon Smith <simonsmith@users.noreply.github.com>",
   "license": "MIT",
   "keywords": "fifty, shades",
